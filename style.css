@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif,
+    'Zen Dots', cursive;
+}
+
+.container{
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/*navigation*/
+
+.logo{
+    font-family: 'Zen Dots', cursive;
+    font-size: 30px;
+    color: #232323;
+}
+.hover__flex{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
